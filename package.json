@@ -1,0 +1,9 @@
+{
+  "name": "financebot-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "tesseract.js": "^4.0.2",
+    "formidable": "^3.3.0",
+    "node-fetch": "^3.3.1"
+  }
+}
